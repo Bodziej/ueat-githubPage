@@ -17,3 +17,7 @@ Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia j
 
 [U-eat Trello](https://trello.com/b/pyw8SSpA/u-eat)
 
+### Use-case diagram v1
+
+[Diagram funkcjonalności] (https://github.com/Bodziej/ueat-githubPage/blob/master/Usecase-diagram.jpg)
+
