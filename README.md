@@ -1,6 +1,9 @@
 ### Witaj na stronie projektu Ueat!
 
-Tutaj wkleję opis projektu
+Inspiracją do stworzenia naszej usługi była realna potrzeba. Uczęszczając na zajęcia od początku studiów zauważyliśmy, że przerwy między wykładami nie są wystarczające, żeby w spokoju zjeść lunch czy obiad.
+
+Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia jedzenia na terenie kampusu na określoną godzinę – np. wiemy, że kończymy wykład za 30 min i po tym czasie możemy odebrać ciepły posiłek.
+
 
 ### Repozytorium projektu
 
