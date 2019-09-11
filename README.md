@@ -1,6 +1,6 @@
 ### Witaj na stronie projektu Ueat!
 
-<img src="https://github.com/Bodziej/ueat-githubPage/blob/master/logo.png" alt="Logo"
+<img src="https://trello-attachments.s3.amazonaws.com/5d6ff7284c7a1a6400fcc8be/1200x1200/422f398debcc26c0ff6555a025f904ab/logo.png" alt="Logo"
 	title="logo" width="200" height="200" />
 
 Inspiracją do stworzenia naszej usługi była realna potrzeba. Uczęszczając na zajęcia od początku studiów zauważyliśmy, że przerwy między wykładami nie są wystarczające, żeby w spokoju zjeść lunch czy obiad.
