@@ -6,8 +6,11 @@ Tutaj wkleję opis projektu
 
 [U-eat repozytorium GitHub](https://github.com/hardeck/ueat)
 
-```markdown
-Syntax highlighted code block
+### Prototyp projektu
+
+[Prototyp aplikacji](https://marvelapp.com/58ghha6)
+
+
 
 # Header 1
 ## Header 2
