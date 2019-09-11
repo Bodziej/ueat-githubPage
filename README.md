@@ -1,12 +1,10 @@
-## Witaj na stronie projektu Ueat!
+### Witaj na stronie projektu Ueat!
 
-You can use the [editor on GitHub](https://github.com/Bodziej/ueat-githubPage/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Tutaj wkleję opis projektu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Repozytorium projektu
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[U-eat repozytorium GitHub](https://github.com/hardeck/ueat)
 
 ```markdown
 Syntax highlighted code block
@@ -23,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/hardeck/ueat) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
