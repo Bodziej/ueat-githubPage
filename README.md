@@ -19,5 +19,5 @@ Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia j
 
 ### Use-case diagram v1
 
-[Diagram funkcjonalności] (https://github.com/Bodziej/ueat-githubPage/blob/master/Usecase-diagram.jpg)
+[Diagram funkcjonalności](https://github.com/Bodziej/ueat-githubPage/blob/master/Usecase-diagram.jpg)
 
