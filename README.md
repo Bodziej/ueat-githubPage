@@ -22,6 +22,6 @@ Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia j
 
 ### Diagramy
 
-[Diagram funkcjonalności](https://github.com/Bodziej/ueat-githubPage/blob/master/Usecase-diagram.jpg)
-[Diagram przepływu](https://github.com/Bodziej/ueat-githubPage/blob/master/Flow-chart.png)
+1.[Diagram funkcjonalności](https://github.com/Bodziej/ueat-githubPage/blob/master/Usecase-diagram.jpg)
+2.[Diagram przepływu](https://github.com/Bodziej/ueat-githubPage/blob/master/Flow-chart.png)
 
