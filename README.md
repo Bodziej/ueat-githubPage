@@ -11,6 +11,7 @@ Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia j
 ### Repozytorium projektu
 
 [U-eat repozytorium SPA](https://github.com/hardeck/ueat)
+
 [U-eat repozytorium Mobile](https://github.com/hardeck/ueat-mobile)
 
 ### Prototyp projektu
