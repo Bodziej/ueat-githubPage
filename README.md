@@ -7,6 +7,10 @@ Inspiracją do stworzenia naszej usługi była realna potrzeba. Uczęszczając n
 
 Główną funkcjonalnością naszej aplikacji będzie możliwość zamówienia jedzenia na terenie kampusu na określoną godzinę – np. wiemy, że kończymy wykład za 30 min i po tym czasie możemy odebrać ciepły posiłek.
 
+### Link do U-Eat
+
+[U-Eat](https://hardeck.github.io/ueat/)
+
 
 ### Repozytorium projektu
 
